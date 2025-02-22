@@ -1,4 +1,4 @@
-Hi there 👋, I’m @SMore1007
+Hi there 👋, I’m Sagar More
 
 - 👀 I’m interested in Embedded Systems and Automation Development
 - 🌱 I’m currently learning Register Level Embedded Firmware Development 
